@@ -35,7 +35,7 @@ class App extends Component {
     console.log(message);
 
     return (
-      <div>
+      <div align = "center">
         <h2>Realtime Socket</h2>
         <LineChart
           width={900}
